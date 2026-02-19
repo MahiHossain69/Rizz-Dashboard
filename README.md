@@ -1,4 +1,4 @@
-# 🚀 SaaS Dashboard Application
+# 🚀 Rizz Dashboard Application
 
 A production-ready Rizz Dashboard application built with Next.js 16, featuring authentication, role-based access control, analytics, GSAP animations, and a professional Stripe-style UI.
 
@@ -117,7 +117,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## Project Structure
 
 ```
-saas-dashboard/
+rizz-dashboard/
 ├── app/
 │   ├── (auth)/              # Authentication pages
 │   │   ├── login/

@@ -5,8 +5,8 @@ import { Providers } from './providers'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'SaaS Dashboard',
-  description: 'Professional SaaS Dashboard Application',
+  title: 'Rizz Dashboard',
+  description: 'Professional Rizz Dashboard Application',
 }
 
 export const viewport = {
